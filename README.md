@@ -2,11 +2,8 @@
 this is a simple event management system cloned and modified for a specific purpose so its not that advanced but you can build on it:
 
 ## step 1 - clone the application
-```
-git clone https://github.com/ronjohnson-owuor/event-management-php.git
+```git clone https://github.com/ronjohnson-owuor/event-management-php.git```
 
-```
-<br/>
 # Requirement 
 before you run this system you need the following things in place;
 <br/>
