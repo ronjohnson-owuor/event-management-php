@@ -12,6 +12,8 @@ before you run this system you need the following things in place;
 2.composer
 3.Mysql
 ```
+<br/>
+there is a database file inside the <b>database folder</b> make sure you run it to spin up your database table.
 
 <br/>
 
